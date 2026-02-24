@@ -1,0 +1,16 @@
+cat > .gitignore << 'EOF'
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Airflow generated logs and data
+airflow_home/logs/
+airflow_home/data/
+data/binance/
+*.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+EOF

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "age": 30,
+    "processed_at": "2026-02-10T11:33:10.513217",
+    "record_count": 3
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "age": 25,
+    "processed_at": "2026-02-10T11:33:10.513226",
+    "record_count": 3
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "age": 35,
+    "processed_at": "2026-02-10T11:33:10.513230",
+    "record_count": 3
+  }
+]
