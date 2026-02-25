@@ -1,0 +1,2 @@
+date,avg_price,min_price,max_price,opening_price,closing_price,price_change,price_change_pct,total_data_points,hours_with_data,calculated_at
+2026-02-24,64085.877903126,64036.40207171,64113.71077491,64103.93264124,64080.03234086,-23.900300379995315,-0.037283672616084604,15,1,2026-02-25 00:15:41
