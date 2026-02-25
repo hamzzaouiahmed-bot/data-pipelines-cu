@@ -7,8 +7,7 @@ __pycache__/
 # Airflow generated logs and data
 airflow_home/logs/
 airflow_home/data/
-data/binance/
-*.csv
+
 
 # OS / editor
 .DS_Store
