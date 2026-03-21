@@ -98,7 +98,7 @@ def train_model():
 with DAG(
     "gold_war_pipeline",
     start_date=datetime(2024, 1, 1),
-    schedule="*/5 * * * *",
+    schedule="@weekly",
     catchup=False,
 ) as dag:
 
