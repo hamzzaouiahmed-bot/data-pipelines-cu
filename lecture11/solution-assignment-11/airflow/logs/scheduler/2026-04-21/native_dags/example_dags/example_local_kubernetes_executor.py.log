@@ -1,0 +1,319 @@
+[2026-04-21T11:48:19.505+0200] {processor.py:161} INFO - Started process (PID=2637) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:48:19.506+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:48:19.509+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:48:19.508+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:48:19.528+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:48:19.524+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:48:19.530+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:48:19.529+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:48:19.531+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:48:19.553+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.058 seconds
+[2026-04-21T11:49:43.179+0200] {processor.py:161} INFO - Started process (PID=2716) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:49:43.182+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:49:43.186+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:49:43.184+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:49:43.219+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:49:43.212+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:49:43.222+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:49:43.221+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:49:43.224+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:49:43.252+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.084 seconds
+[2026-04-21T11:50:50.764+0200] {processor.py:161} INFO - Started process (PID=2776) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:50:50.766+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:50:50.769+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:50:50.768+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:50:50.791+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:50:50.786+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:50:50.793+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:50:50.792+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:50:50.794+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:50:50.814+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.060 seconds
+[2026-04-21T11:52:51.208+0200] {processor.py:161} INFO - Started process (PID=2855) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:52:51.222+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:52:51.224+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:52:51.223+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:52:51.242+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:52:51.239+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:52:51.243+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:52:51.243+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:52:51.244+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:52:51.261+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.061 seconds
+[2026-04-21T11:54:24.715+0200] {processor.py:161} INFO - Started process (PID=2924) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:54:24.717+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:54:24.719+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:54:24.718+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:54:24.739+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:54:24.734+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:54:24.740+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:54:24.740+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:54:24.741+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:54:24.758+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.053 seconds
+[2026-04-21T11:55:42.951+0200] {processor.py:161} INFO - Started process (PID=3007) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:55:42.953+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:55:42.957+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:55:42.956+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:55:42.979+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:55:42.975+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:55:42.981+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:55:42.980+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:55:42.982+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:55:43.000+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.061 seconds
+[2026-04-21T11:56:52.983+0200] {processor.py:161} INFO - Started process (PID=3062) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:56:52.985+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:56:52.987+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:56:52.986+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:56:53.009+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:56:53.004+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:56:53.012+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:56:53.011+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:56:53.013+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:56:53.033+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.062 seconds
+[2026-04-21T11:57:57.969+0200] {processor.py:161} INFO - Started process (PID=3117) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:57:57.970+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:57:57.973+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:57:57.972+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:57:57.999+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:57:57.992+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:57:58.001+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:57:58.000+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:57:58.002+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:57:58.025+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.068 seconds
+[2026-04-21T11:59:04.485+0200] {processor.py:161} INFO - Started process (PID=3172) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:59:04.486+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T11:59:04.489+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:59:04.488+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:59:04.515+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:59:04.509+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T11:59:04.518+0200] {logging_mixin.py:188} INFO - [2026-04-21T11:59:04.517+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T11:59:04.519+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T11:59:04.540+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.067 seconds
+[2026-04-21T12:00:17.094+0200] {processor.py:161} INFO - Started process (PID=3244) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:00:17.096+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:00:17.099+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:00:17.098+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:00:17.123+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:00:17.117+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:00:17.124+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:00:17.124+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:00:17.125+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:00:17.146+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.063 seconds
+[2026-04-21T12:01:32.004+0200] {processor.py:161} INFO - Started process (PID=3310) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:01:32.006+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:01:32.010+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:01:32.009+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:01:32.035+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:01:32.030+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:01:32.037+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:01:32.036+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:01:32.038+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:01:32.059+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.066 seconds
+[2026-04-21T12:02:57.997+0200] {processor.py:161} INFO - Started process (PID=3377) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:02:57.999+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:02:58.002+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:02:58.001+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:02:58.024+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:02:58.019+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:02:58.026+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:02:58.025+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:02:58.026+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:02:58.048+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.061 seconds
+[2026-04-21T12:04:23.999+0200] {processor.py:161} INFO - Started process (PID=3443) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:04:24.000+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:04:24.002+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:04:24.001+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:04:24.019+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:04:24.016+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:04:24.021+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:04:24.020+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:04:24.022+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:04:24.037+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.048 seconds
+[2026-04-21T12:05:33.913+0200] {processor.py:161} INFO - Started process (PID=3500) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:05:33.915+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:05:33.918+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:05:33.917+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:05:33.937+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:05:33.933+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:05:33.939+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:05:33.939+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:05:33.940+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:05:33.959+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.056 seconds
+[2026-04-21T12:06:40.759+0200] {processor.py:161} INFO - Started process (PID=3562) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:06:40.761+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:06:40.766+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:06:40.764+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:06:40.788+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:06:40.784+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:06:40.790+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:06:40.789+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:06:40.790+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:06:40.811+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.062 seconds
+[2026-04-21T12:07:49.855+0200] {processor.py:161} INFO - Started process (PID=3623) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:07:49.856+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:07:49.859+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:07:49.858+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:07:49.877+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:07:49.874+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:07:49.879+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:07:49.878+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:07:49.880+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:07:49.899+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.053 seconds
+[2026-04-21T12:08:58.757+0200] {processor.py:161} INFO - Started process (PID=3711) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:08:58.759+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:08:58.762+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:08:58.761+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:08:58.781+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:08:58.777+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:08:58.782+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:08:58.782+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:08:58.783+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:08:58.805+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.058 seconds
+[2026-04-21T12:10:07.726+0200] {processor.py:161} INFO - Started process (PID=3768) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:10:07.727+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:10:07.730+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:10:07.729+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:10:07.751+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:10:07.746+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:10:07.753+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:10:07.752+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:10:07.754+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:10:07.772+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.056 seconds
+[2026-04-21T12:11:20.626+0200] {processor.py:161} INFO - Started process (PID=3827) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:11:20.627+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:11:20.630+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:11:20.629+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:11:20.648+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:11:20.645+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:11:20.650+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:11:20.649+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:11:20.651+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:11:20.666+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.050 seconds
+[2026-04-21T12:12:39.201+0200] {processor.py:161} INFO - Started process (PID=3886) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:12:39.203+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:12:39.206+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:12:39.205+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:12:39.222+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:12:39.218+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:12:39.223+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:12:39.223+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:12:39.224+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:12:39.242+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.049 seconds
+[2026-04-21T12:13:51.757+0200] {processor.py:161} INFO - Started process (PID=3945) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:13:51.758+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:13:51.761+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:13:51.760+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:13:51.779+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:13:51.775+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:13:51.781+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:13:51.780+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:13:51.782+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:13:51.798+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.050 seconds
+[2026-04-21T12:15:04.065+0200] {processor.py:161} INFO - Started process (PID=4003) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:15:04.066+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:15:04.068+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:15:04.068+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:15:04.085+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:15:04.082+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:15:04.086+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:15:04.085+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:15:04.087+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:15:04.101+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.044 seconds
+[2026-04-21T12:16:14.357+0200] {processor.py:161} INFO - Started process (PID=4059) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:16:14.359+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:16:14.361+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:16:14.360+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:16:14.376+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:16:14.373+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:16:14.377+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:16:14.377+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:16:14.378+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:16:14.393+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.044 seconds
+[2026-04-21T12:17:34.125+0200] {processor.py:161} INFO - Started process (PID=4123) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:17:34.127+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:17:34.130+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:17:34.129+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:17:34.151+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:17:34.147+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:17:34.153+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:17:34.152+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:17:34.153+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:17:34.173+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.057 seconds
+[2026-04-21T12:18:46.086+0200] {processor.py:161} INFO - Started process (PID=4183) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:18:46.087+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:18:46.090+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:18:46.089+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:18:46.106+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:18:46.102+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:18:46.107+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:18:46.106+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:18:46.108+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:18:46.124+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.046 seconds
+[2026-04-21T12:19:52.901+0200] {processor.py:161} INFO - Started process (PID=4237) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:19:52.902+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:19:52.905+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:19:52.904+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:19:52.922+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:19:52.918+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:19:52.923+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:19:52.923+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:19:52.924+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:19:52.940+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.050 seconds
+[2026-04-21T12:21:02.108+0200] {processor.py:161} INFO - Started process (PID=4295) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:21:02.110+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:21:02.114+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:21:02.113+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:21:02.137+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:21:02.132+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:21:02.139+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:21:02.138+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:21:02.140+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:21:02.158+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.060 seconds
+[2026-04-21T12:22:10.840+0200] {processor.py:161} INFO - Started process (PID=4351) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:22:10.841+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:22:10.844+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:22:10.843+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:22:10.861+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:22:10.857+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:22:10.862+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:22:10.861+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:22:10.863+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:22:10.879+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.048 seconds
+[2026-04-21T12:23:16.484+0200] {processor.py:161} INFO - Started process (PID=4406) to work on /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:23:16.486+0200] {processor.py:830} INFO - Processing file /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-04-21T12:23:16.489+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:23:16.488+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:23:16.505+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:23:16.502+0200] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-04-21T12:23:16.507+0200] {logging_mixin.py:188} INFO - [2026-04-21T12:23:16.506+0200] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-04-21T12:23:16.507+0200] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-04-21T12:23:16.526+0200] {processor.py:183} INFO - Processing /mnt/c/Users/Wind10/OneDrive/Desktop/lecture11-airflow-ollama-assignment/.venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.050 seconds
